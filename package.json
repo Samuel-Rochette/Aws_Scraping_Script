@@ -1,0 +1,21 @@
+{
+  "name": "awsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.368.0",
+    "crawler": "^1.2.0",
+    "mime-types": "^2.1.21",
+    "recursive-readdir": "^2.2.2",
+    "request": "^2.88.0",
+    "website-scraper": "^3.4.0",
+    "xhr2": "^0.1.4"
+  }
+}
